@@ -10,5 +10,7 @@
 <h3>index.jsp</h3>
 <a href="customer/notice.do">게시판</a>
 
+<h1>step2 content</h1>
+
 </body>
 </html>
